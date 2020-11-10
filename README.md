@@ -15,10 +15,13 @@
 #### Math & Reading Scores by grade
 
 #### Effect on School Spending
-
+![PCS_School_Spending](https://github.com/mayajaral/School_District_Analysis/blob/main/Resources/PCS_School_Spending.PNG)
+![PCSC_School_Spending](https://github.com/mayajaral/School_District_Analysis/blob/main/Resources/PCSC_School_Spending.PNG)
 #### Effect on School Size
-
+![PCS_School_Size](https://github.com/mayajaral/School_District_Analysis/blob/main/Resources/PCS_School_Size.PNG)
+![PCSC_School_Size](https://github.com/mayajaral/School_District_Analysis/blob/main/Resources/PCSC_School_Size.PNG)
 #### Effect on School Type
-
+![PCS_School_Type](https://github.com/mayajaral/School_District_Analysis/blob/main/Resources/PCS_School_Type.PNG)
+![PCSC_School_Type](https://github.com/mayajaral/School_District_Analysis/blob/main/Resources/PCSC_School_Type.PNG)
 ## Summary
 
