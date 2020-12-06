@@ -16,14 +16,17 @@ We can see that the Math, Reading and Overall passing rate decrease after removi
 ![PCS_School_Summary_Top5](https://github.com/mayajaral/School_District_Analysis/blob/main/Resources/PCS_School_Summary_Top5.PNG)
 #### Re-Analyzed
 ![PCSC_School_Summary_Top5](https://github.com/mayajaral/School_District_Analysis/blob/main/Resources/PCSC_School_Summary_Top5.PNG)
-### Effect of removal of 9th grade scores
+In the School District summary, as expected only the summary for Thomas High School has changed. The Math, Reading and Overall passing percentage has decreased. 
 
+### Effect of removal of 9th grade scores
 #### Math & Reading Scores by grade
 #### Effect on School Spending
 #### Original 
 ![PCS_School_Spending](https://github.com/mayajaral/School_District_Analysis/blob/main/Resources/PCS_School_Spending.PNG)
 #### Re-Analyzed
 ![PCSC_School_Spending](https://github.com/mayajaral/School_District_Analysis/blob/main/Resources/PCSC_School_Spending.PNG)
+
+
 #### Effect on School Size
 #### Original 
 ![PCS_School_Size](https://github.com/mayajaral/School_District_Analysis/blob/main/Resources/PCS_School_Size.PNG)
