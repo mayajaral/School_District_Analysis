@@ -1,7 +1,7 @@
 # School_District_Analysis
 
 ## Project Overview
-
+The 9th grade Thomas High School data show indications of altering. The purpose of this analysis is to re-analyze the school district data after removing the Thomas High School data for the 9th grade. 
 
 ## Results
 ### Effect on District Summary
